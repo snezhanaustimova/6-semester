@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Устимова С.С. ПИ19-3</string>
+    <string name="input_text">Enter your name</string>
+    <string name="out_btn">Output text</string>
+</resources>
